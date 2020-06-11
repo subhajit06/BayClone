@@ -10,4 +10,4 @@ simu_data.RData:  This is the example simulation data file.
 
 In order to run the example: extract the package, go to the directory, copy paste the code in "run_mcmc_simu.R" to R console, and Z and w plots will be generated along with LPML values will be printed on the console.
 
-Should you have any questions, please contact jinwang8@illinois.edu
+Should you have any questions, please contact subhajit06@gmail.com or jinwang8@illinois.edu
